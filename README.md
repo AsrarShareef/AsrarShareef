@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AsrarShareef
-- 👀 I’m interested in Ele
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learning VLSI.
+- 🌱 I’m currently student of Diploma Polythechnic 3rd year 6th sem.
+- 📫 How to reach me mohammedasraruddinshareef945@gmail.com
 
 <!---
 AsrarShareef/AsrarShareef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
